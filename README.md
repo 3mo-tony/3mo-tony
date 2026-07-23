@@ -42,8 +42,19 @@ rebuilt the sanitization logic to work without mutating `req.query` directly,
 keeping NoSQL-injection protection intact for anyone upgrading to Express v5.
 → Built from a real problem, shipped as a public package others can depend on.
 
+### 🛠️ [Unc.js](https://github.com/3mo-tony/uncjs)
+
+A CLI for scaffolding production-ready Express backends (JS/TS) with your choice
+of ORM — Mongoose, Prisma, or Sequelize. `unc init` bootstraps a full layered
+architecture (services, controllers, routes, DTOs, Zod schemas) and
+`unc generate module <name>` generates complete CRUD modules — model, service,
+controller, routes, and validation — in one command, patching all the barrel
+files and route mounts automatically.
+→ Published on npm as `@3mo.tony/unc.js`, built to kill the copy-paste
+boilerplate step of starting a new backend.
+
 ### 🏗️ [structure-bootstrap](https://github.com/3mo-tony/structure-bootstrap)
-Production-ready NestJS/TypeScript project starter — modular structure, Prisma
+Production-ready ExpressJS/TypeScript project starter — modular structure, Prisma
 integration, error handling, and environment config, refined across multiple
 real client projects.
 
