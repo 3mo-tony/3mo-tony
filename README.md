@@ -9,16 +9,18 @@
 ## 🧩 Who Am I?
 
 Senior Backend Engineer with 5+ years building scalable systems across
-**AdTech, FinTech, and SaaS**. I specialize in Node.js/NestJS backends and
-third-party API integrations — Meta, TikTok, LinkedIn, Shopify, and Google.
+**AdTech, FinTech, and SaaS**. Currently the sole backend owner at **Just Ad**,
+architecting a multi-platform AI-powered ad system integrating Meta, TikTok,
+Snapchat, and Google Ads/Analytics from scratch.
 
-I like solving problems that show up under real load: defending against OTP
-abuse attacks, fixing connection pool exhaustion in production, patching
-security gaps that break when frameworks change underneath you. I care more
-about systems that hold up than demos that look good once.
+A few numbers that matter more than buzzwords: cut API response times by
+**92% (13s → 1s)** at TrueDar, and reduced microservices latency by **50%**
+at Madkhol — both through profiling, query optimization, and real
+architectural refactoring, not guesswork.
 
-Currently exploring **game development with Unity** — a deliberate step outside
-my usual backend work.
+I care more about systems that hold up under real load than demos that look
+good once. Currently exploring **game development with Unity** — a
+deliberate step outside my usual backend work.
 
 ---
 
