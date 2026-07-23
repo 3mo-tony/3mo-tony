@@ -17,8 +17,8 @@ abuse attacks, fixing connection pool exhaustion in production, patching
 security gaps that break when frameworks change underneath you. I care more
 about systems that hold up than demos that look good once.
 
-Currently deepening my systems knowledge by learning **C++** from scratch —
-deliberately outside my comfort zone.
+Currently exploring **game development with Unity** — a deliberate step outside
+my usual backend work.
 
 ---
 
@@ -58,13 +58,13 @@ thinking, applied across ecosystems.
 
 ## 🌱 Currently Learning
 
-**C++** — going deep on fundamentals outside my usual backend comfort zone
+**Game Development with Unity** — exploring a new domain outside my usual backend work
 
 ---
 
 ## 🌍 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/your-link-here) · [Email](mailto:your-email-here)
+[LinkedIn](https://www.linkedin.com/in/antonios-samy-2300aa1a1/) · [Email](mailto:antoniosamy14@gmail.com)
 
 Open to Senior Backend Engineer roles — remote-first, backend or full-stack.
 Always happy to talk shop about API integrations, system design, or
